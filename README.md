@@ -1,3 +1,12 @@
+# Steps to run the project.
+    1) UnZip the project wherever you wish.
+    2) Run CMD Terminal in your OS.
+    3) Once in your terminal run command: "cd [path where you unzipped your the project]"
+    4) Once inside the project (you should see folders src, public, etc) run command `yarn install`
+    5) Once yarn is done installing all dependencies run `yarn start` to run the project
+    6) If your browser did not show up automatically then type "http://localhost:3000/" in your browser to see the page
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
